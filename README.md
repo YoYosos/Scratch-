@@ -3,7 +3,7 @@ info about all the © on my scartch projects
 
 projects:
 
-the mouse game
+the mouse game -  go to the mouse game branch
 
 more soon..
 
